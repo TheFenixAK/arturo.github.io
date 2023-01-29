@@ -1,0 +1,29 @@
+.boton{
+   background-color: #5F8D4E;
+   border-radius: 8px;
+   width: 140px;
+   height: 30px;
+   font-family: comic sans ms;
+   color: #E5D9B6;
+}
+
+.boton:active{
+    background-color: #A4BE7B;
+}
+
+.final{
+    background-color: black;
+    height: 300px;
+    color: white;
+}
+
+.in-flex h4{
+    font-family: cursive;
+    font-size: 30px;
+}
+
+.in-flex .lista1 img{
+    position: relative;
+    top: 20px;
+}
+
